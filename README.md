@@ -10,35 +10,6 @@ The Scorekeeper App is a web application built with React, Tailwind CSS, and Fir
 - Clear all scores with a single button click.
 - Intuitive user interface with responsive design.
 
-## Installation and Setup
-
-1. Clone this repository to your local machine using:
-git clone https://github.com/brandonshillingdev/scorekeeper-app.git
-
-2. Navigate into the project directory:
-cd scorekeeper-app
-
-
-3. Install the required dependencies:
-npm install
-
-4. Create a Firebase project and obtain the configuration object (Firebase Web App Config).
-
-5. Create a `.env` file in the root directory and add the Firebase configuration:
-REACT_APP_FIREBASE_API_KEY=your-api-key
-REACT_APP_FIREBASE_AUTH_DOMAIN=your-auth-domain
-REACT_APP_FIREBASE_PROJECT_ID=your-project-id
-REACT_APP_FIREBASE_STORAGE_BUCKET=your-storage-bucket
-REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your-messaging-sender-id
-REACT_APP_FIREBASE_APP_ID=your-app-id
-REACT_APP_FIREBASE_MEASUREMENT_ID=your-measurement-id
-
-6. Start the development server:
-npm start
-
-
-7. Open your web browser and go to `http://localhost:3000` to view the app.
-
 ## Usage
 
 - To add a new player/team, enter the name in the input field and click "Add Player."
