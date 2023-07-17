@@ -64,4 +64,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 You can find more of my projects on [GitHub](https://github.com/brandonshillingdev/). If you have any questions or suggestions, feel free to reach out to me at brandon.shilling.dev@gmail.com.
 
-![Brandon Shilling](https://avatars.githubusercontent.com/u/brandonshillingdev)
+![Brandon Shilling](https://avatars.githubusercontent.com/brandonshillingdev)
+
